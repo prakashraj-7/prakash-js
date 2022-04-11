@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @prakash-js
-- 👀 I’m interested in ...js
-- 🌱 I’m currently learning ...js node .js f-express.js,mongo dp
-- 💞️ I’m looking to collaborate on ...back-end
+- 👋 Hi, I’m @prakash-7
+- 👀 I’m interested in ... python, web design, web3 technologies
+- 🌱 I’m currently learning ..react js , 
+- 💞️ I’m looking to collaborate on ...back-end DJANGO
 - 📫 How to reach me ... justinprakash018@gmail.com 😉
 
 <!---
